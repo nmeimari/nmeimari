@@ -13,9 +13,6 @@ A simple website for a painter/artist.
 - Code: https://github.com/nmeimari/projectwww
 - Technologies: HTML, CSS, JavaScript, Node.js
 
-### University Projects
-More academic projects and exercises will be added soon.
-
 ## Skills
 - C
 - Python
