@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nikoleta Meimari
 
-<!--
-**nmeimari/nmeimari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student.
 
-Here are some ideas to get you started:
+In this GitHub profile, I present some important university projects and exercises that I have implemented during my studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Artist Portfolio Website
+A simple website for a painter/artist.
+
+- Live Demo: https://projectwww.vercel.app
+- Code: https://github.com/nmeimari/projectwww
+- Technologies: HTML, CSS, JavaScript, Node.js
+
+### University Projects
+More academic projects and exercises will be added soon.
+
+## Skills
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+
